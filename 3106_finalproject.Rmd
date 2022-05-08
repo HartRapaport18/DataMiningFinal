@@ -52,8 +52,8 @@ library(GGally)
 library(scales)
 library(ggcorrplot)
 
-Sys.setenv(SPOTIFY_CLIENT_ID = 'f1de2c4ac4e4453db742ddee2f3d6035')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = 'e8e702f2861b45ee8247543e542264e3')
+Sys.setenv(SPOTIFY_CLIENT_ID = REDACTED)
+Sys.setenv(SPOTIFY_CLIENT_SECRET = REDACTED)
 
 
 set.seed(1)
